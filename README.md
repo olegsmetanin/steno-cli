@@ -1,3 +1,5 @@
 # steno-cli
 
-steno-cli
+```
+npx github:olegsmetanin/steno-cli
+```
