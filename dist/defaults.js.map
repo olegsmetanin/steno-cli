@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/defaults.ts"],"sourcesContent":["export const BYTE_SIZE = 8;\nexport const ENCRYPTION_METHOD = 'aes256';\nexport const LENGTH_BYTES = 8;\nexport const SHASUM_BYTES = 32;\n"],"mappings":";;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,IAAM,YAAY;AAClB,IAAM,oBAAoB;AAC1B,IAAM,eAAe;AACrB,IAAM,eAAe;","names":[]}
